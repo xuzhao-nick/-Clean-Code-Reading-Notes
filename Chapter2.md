@@ -203,3 +203,8 @@ Controller和Driver,Manager也是令人困惑的一组词。
 
 **3，此章中命名的规范里，哪些是你已经遵守了的规则，哪些是你忽略了的？**
 
+
+  [1]: https://www.safaribooksonline.com/library/view/clean-code/9780136083238/graphics/2_1fig_martin.jpg
+  [2]: https://www.safaribooksonline.com/library/view/clean-code/9780136083238/ch02.html
+  [3]: http://ourcoders.com/tag/name/CleanCode/
+
