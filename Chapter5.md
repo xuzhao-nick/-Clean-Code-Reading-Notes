@@ -240,14 +240,6 @@ public class Quadratic {
 **2，如果有，你觉得需要改变你的代码格式吗？**
 
 
- 
-
-    如何加入Root Cause读书会：请加我的微信brainstudio,我建立了一个群，方便通知各位写读后感及讨论。
-
- 
-
-[Clean Code所有讨论章节链接][3]
-
 
   [1]: https://www.safaribooksonline.com/library/view/clean-code/9780136083238/graphics/5_1fig_martin.jpg
   [2]: https://www.safaribooksonline.com/library/view/clean-code/9780136083238/ch05.html
